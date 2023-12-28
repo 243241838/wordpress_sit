@@ -1,0 +1,108 @@
+[2023-12-28 06:31:45][notice]Start restoring themes.
+[2023-12-28 06:31:45][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip
+[2023-12-28 06:31:45][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip succeeded.
+[2023-12-28 06:31:45][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_themes.zip index:0
+[2023-12-28 06:31:46][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_themes.zip index:0 finished.
+[2023-12-28 06:31:46][notice]End restore themes.
+[2023-12-28 06:31:47][notice]Start restoring plugin.
+[2023-12-28 06:31:47][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip
+[2023-12-28 06:31:47][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip succeeded.
+[2023-12-28 06:31:47][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_plugin.zip index:0
+[2023-12-28 06:31:47][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_plugin.zip index:0 finished.
+[2023-12-28 06:31:47][notice]End restore plugin.
+[2023-12-28 06:31:48][notice]Start restoring plugin.
+[2023-12-28 06:31:48][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_plugin.zip index:1000
+[2023-12-28 06:31:49][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_plugin.zip index:1000 finished.
+[2023-12-28 06:31:49][notice]End restore plugin.
+[2023-12-28 06:31:50][notice]Start restoring wp-content.
+[2023-12-28 06:31:50][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip
+[2023-12-28 06:31:50][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip succeeded.
+[2023-12-28 06:31:50][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_content.zip index:0
+[2023-12-28 06:31:50][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_content.zip index:0 finished.
+[2023-12-28 06:31:50][notice]End restore wp-content.
+[2023-12-28 06:31:51][notice]Start restoring upload.
+[2023-12-28 06:31:51][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip
+[2023-12-28 06:31:51][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip succeeded.
+[2023-12-28 06:31:51][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_uploads.zip index:0
+[2023-12-28 06:31:51][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_uploads.zip index:0 finished.
+[2023-12-28 06:31:51][notice]End restore upload.
+[2023-12-28 06:31:52][notice]Start restoring wp-core.
+[2023-12-28 06:31:52][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip
+[2023-12-28 06:31:53][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip succeeded.
+[2023-12-28 06:31:53][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_core.zip
+[2023-12-28 06:31:55][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_core.zip succeeded.
+[2023-12-28 06:31:55][notice]End restore wp-core.
+[2023-12-28 06:31:56][notice]Start restoring databases.
+[2023-12-28 06:31:56][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip
+[2023-12-28 06:31:56][notice]Extracting file:aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_all.zip finished.
+[2023-12-28 06:31:56][notice]Extracting file:/Users/apple/Local Sites/aa/app/public/wp-content/wpvividbackups/aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_db.zip
+[2023-12-28 06:31:56][notice]Extracting file:/Users/apple/Local Sites/aa/app/public/wp-content/wpvividbackups/aa.local_wpvivid-658ccfd1a4787_2023-12-28-01-30_backup_db.zip finished.
+[2023-12-28 06:31:56][notice]End restore databases.
+[2023-12-28 06:31:57][notice]Start restoring databases.
+[2023-12-28 06:31:57][notice]Start restoring sql file offset:0
+[2023-12-28 06:31:57][notice]The test to drop table succeeds.
+[2023-12-28 06:31:57][notice]Drop table if exist tmpa360b8_wppusher_packages
+[2023-12-28 06:31:57][notice]Creating table tmpa360b8_wppusher_packages
+[2023-12-28 06:31:57][notice]Drop table if exist tmpa360b8_e_events
+[2023-12-28 06:31:57][notice]Creating table tmpa360b8_e_events
+[2023-12-28 06:31:57][notice]Drop table if exist tmpa360b8_links
+[2023-12-28 06:31:57][notice]Creating table tmpa360b8_links
+[2023-12-28 06:31:57][notice]Drop table if exist tmpa360b8_term_relationships
+[2023-12-28 06:31:57][notice]Creating table tmpa360b8_term_relationships
+[2023-12-28 06:31:57][notice]Drop table if exist tmpa360b8_commentmeta
+[2023-12-28 06:31:57][notice]Creating table tmpa360b8_commentmeta
+[2023-12-28 06:31:57][notice]Drop table if exist tmpa360b8_postmeta
+[2023-12-28 06:31:57][notice]Creating table tmpa360b8_postmeta
+[2023-12-28 06:31:57][notice]Drop table if exist tmpa360b8_term_taxonomy
+[2023-12-28 06:31:57][notice]Creating table tmpa360b8_term_taxonomy
+[2023-12-28 06:31:57][notice]Drop table if exist tmpa360b8_termmeta
+[2023-12-28 06:31:57][notice]Creating table tmpa360b8_termmeta
+[2023-12-28 06:31:57][notice]Drop table if exist tmpa360b8_terms
+[2023-12-28 06:31:57][notice]Creating table tmpa360b8_terms
+[2023-12-28 06:31:57][notice]Drop table if exist tmpa360b8_usermeta
+[2023-12-28 06:31:57][notice]Creating table tmpa360b8_usermeta
+[2023-12-28 06:31:58][notice]Drop table if exist tmpa360b8_users
+[2023-12-28 06:31:58][notice]Creating table tmpa360b8_users
+[2023-12-28 06:31:58][notice]Drop table if exist tmpa360b8_comments
+[2023-12-28 06:31:58][notice]Creating table tmpa360b8_comments
+[2023-12-28 06:31:58][notice]Drop table if exist tmpa360b8_posts
+[2023-12-28 06:31:58][notice]Creating table tmpa360b8_posts
+[2023-12-28 06:31:58][notice]Drop table if exist tmpa360b8_options
+[2023-12-28 06:31:58][notice]Creating table tmpa360b8_options
+[2023-12-28 06:31:58][notice]UPDATE tmpa360b8_options SET option_value="http://aa.local" WHERE option_name="siteurl";
+[2023-12-28 06:31:58][notice]update query len:88
+[2023-12-28 06:31:58][notice]UPDATE tmpa360b8_options SET option_value="http://aa.local" WHERE option_name="home";
+[2023-12-28 06:31:58][notice]update query len:85
+[2023-12-28 06:31:58][notice]Restore db success
+[2023-12-28 06:31:58][notice]End restore databases.
+[2023-12-28 06:31:59][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_comments
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_e_events
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_links
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_options
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_postmeta
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_posts
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_termmeta
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_terms
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_usermeta
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_users
+[2023-12-28 06:31:59][notice]DROP TABLE IF EXISTS wp_wppusher_packages
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_commentmeta TO wp_commentmeta
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_comments TO wp_comments
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_e_events TO wp_e_events
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_links TO wp_links
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_options TO wp_options
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_postmeta TO wp_postmeta
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_posts TO wp_posts
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_term_relationships TO wp_term_relationships
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_term_taxonomy TO wp_term_taxonomy
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_termmeta TO wp_termmeta
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_terms TO wp_terms
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_usermeta TO wp_usermeta
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_users TO wp_users
+[2023-12-28 06:31:59][notice]RENAME TABLE tmpa360b8_wppusher_packages TO wp_wppusher_packages
+[2023-12-28 06:31:59][notice]Replacing table prefix succeeded.
+[2023-12-28 06:31:59][notice]Deleting temp files.
